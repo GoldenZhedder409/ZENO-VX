@@ -7,11 +7,13 @@
 
 ---
 
+### What is this? 
 🛡️ ZENO VX - Multi-Vector Network Stress Tester
 ZENO VX is an advanced network performance and stress-testing framework written in Python. It is designed for security researchers and system administrators to evaluate the resilience of network infrastructures against various high-concurrency traffic patterns.
 
 ---
 
+### Disclaimer ⚠️
 > [!WARNING]
 > LEGAL DISCLAIMER: This tool is for Educational Purposes Only. Unauthorized use against third-party systems is illegal and may result in criminal charges. The author and distributor assume no liability for misuse of this software.
 > 
@@ -25,6 +27,7 @@ ZENO VX is an advanced network performance and stress-testing framework written 
 
 ---
 
+### Attack method 💢
 📊 Attack Vectors Explained
 | Vector | Method | Target Layer |
 |---|---|---|
@@ -37,6 +40,7 @@ ZENO VX is an advanced network performance and stress-testing framework written 
 
 ---
 
+### requirement 📋
 Prerequisites
  * Python 3.8 or higher.
  * Root/Administrator privileges (required for optimized socket performance).
@@ -44,6 +48,7 @@ Prerequisites
 
 ---
 
+### How to run? 🚀
 Running the Tool
  * Clone or save the script as zeno_vx.py.
  * Execute with root privileges:
