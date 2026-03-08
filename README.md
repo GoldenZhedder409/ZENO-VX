@@ -60,3 +60,9 @@ Running the Tool
    sudo python3 zeno_vx.py
  * Command Line Arguments:
    python3 zeno_vx.py --target 192.168.1.1 --port 80 --threads 1500
+
+---
+
+### Support us!! 💰
+You can support this small project by donating to our **Monero** account
+"83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC"
